@@ -1,0 +1,62 @@
+﻿<%@ Master Language="VB" CodeFile="ManagerMasterPage.master.vb" Inherits="Manager_ManagerMasterPage" %>
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head id="Head1" runat="server">
+    <title></title>
+    <link href="~/Styles/Site.css" rel="stylesheet" type="text/css" />
+    <asp:ContentPlaceHolder ID="HeadContent" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body background ="../Wallpapers/834522_professional-backgrounds-for-websites-the-rho-chapter-of-delta_1600x1200_h.jpg">
+    <form id="Form1" runat="server">
+    <div class="page">
+        <div class="header" style="background-color: #CC0000">
+            <div class="title">
+                <h1 style="color: #808080; font-family: 'Berlin Sans FB';">
+                     MANAGER HOME
+                </h1>
+            </div>
+            <div class="loginDisplay" style="color: #CC0000; background-color: #CC0000;">
+                <asp:LoginView ID="HeadLoginView" runat="server" EnableViewState="false">
+                    <AnonymousTemplate>
+                        [ <a href="~/Account/Login.aspx" ID="HeadLoginStatus" runat="server">Log In</a> ]
+                    </AnonymousTemplate>
+                    <LoggedInTemplate>
+                        Welcome <span class="bold"><asp:LoginName ID="HeadLoginName" runat="server" /></span>!
+                        [ <asp:LoginStatus ID="HeadLoginStatus" runat="server" LogoutAction="Redirect" LogoutText="Log Out" LogoutPageUrl="~/"/> ]
+                    </LoggedInTemplate>
+                </asp:LoginView>
+            </div>
+            <div class="clear hideSkiplink" style="background-color: #CC0000">
+                <asp:Menu ID="NavigationMenu" runat="server" CssClass="menu" 
+                    EnableViewState="false" IncludeStyleBlock="false" Orientation="Horizontal" 
+                    BackColor="#CC0000" ForeColor="#CC0000">
+                    <Items>
+                        <asp:MenuItem NavigateUrl="~/Manager/Edit Catalogue.aspx" Text="View Catalogue" 
+                            Value="View Catalogue"/>
+                        <asp:MenuItem NavigateUrl="~/Manager/StaffSales.aspx" Text="View Staff Sales" 
+                            Value="View Staff Sales"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Reports.aspx" Text="View Reports" 
+                            Value="View Reports"></asp:MenuItem>
+                        <asp:MenuItem NavigateUrl="~/Manager/ManagerHelp.aspx" Text="Need Help?" 
+                            Value="Need Help?"></asp:MenuItem>
+                    </Items>
+                </asp:Menu>
+                
+            </div>
+        </div>
+        
+        <div class="main">
+            <asp:ContentPlaceHolder ID="MainContent" runat="server">
+            </asp:ContentPlaceHolder>
+
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+    </form>
+</body>
+</html>
+
+

@@ -1,0 +1,316 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+ReportingApplication
+</name>
+</assembly>
+<members>
+<member name="T:ReportingApplication.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:ReportingApplication.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:ReportingApplication.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Order_LineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.OutsourceAgentDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Product_SaleDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.ProductsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.StaffDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Supplier_OrderDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Sale_LineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Customer_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Repair_DetailsDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Order_LineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.OutsourceAgentRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Product_SaleRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.ProductsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.StaffRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Supplier_OrderRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Sale_LineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Customer_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Repair_DetailsRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Order_LineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.OutsourceAgentRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Product_SaleRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.ProductsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.StaffRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Supplier_OrderRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Sale_LineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Customer_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet.Repair_DetailsRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.Order_LineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.OutsourceAgentTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.Product_SaleTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.ProductsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.StaffTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.Supplier_OrderTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.Sale_LineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.Customer_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.Repair_DetailsTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(ReportingApplication.group7DataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(ReportingApplication.group7DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(ReportingApplication.group7DataSet,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSetTableAdapters.TableAdapterManager.UpdateAll(ReportingApplication.group7DataSet)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet1">
+<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet1.Sale_LineDataTable">
+<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet1.Sale_LineRow">
+<summary>
+Represents strongly named DataRow class.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet1.Sale_LineRowChangeEvent">
+<summary>
+Row event argument class
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet1TableAdapters.Sale_LineTableAdapter">
+<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet1TableAdapters.TableAdapterManager">
+<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSet1TableAdapters.TableAdapterManager.UpdateUpdatedRows(ReportingApplication.group7DataSet1,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Update rows in top-down order.
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSet1TableAdapters.TableAdapterManager.UpdateInsertedRows(ReportingApplication.group7DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Insert rows in top-down order.
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSet1TableAdapters.TableAdapterManager.UpdateDeletedRows(ReportingApplication.group7DataSet1,System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Delete rows in bottom-up order.
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSet1TableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member>
+<member name="M:ReportingApplication.group7DataSet1TableAdapters.TableAdapterManager.UpdateAll(ReportingApplication.group7DataSet1)">
+<summary>
+Update all changes to the dataset.
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet1TableAdapters.TableAdapterManager.UpdateOrderOption">
+<summary>
+Update Order Option
+</summary>
+</member>
+<member name="T:ReportingApplication.group7DataSet1TableAdapters.TableAdapterManager.SelfReferenceComparer">
+<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member>
+</members>
+</doc>

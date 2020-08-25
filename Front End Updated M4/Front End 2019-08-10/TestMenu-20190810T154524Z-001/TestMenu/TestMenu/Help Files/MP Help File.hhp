@@ -1,0 +1,25 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=MP Help File.chm
+Contents file=Table of Contents.hhc
+Default Window=MP Help
+Default topic=About Help.html
+Display compile progress=No
+Full-text search=Yes
+Index file=Index.hhk
+Language=0x1c09 English (South Africa)
+
+[WINDOWS]
+MP Help="Help for Navsonic Agencies","Table of Contents.hhc","Index.hhk","Index Page.html","Index Page.html",,,,,0x22520,,0x3846,[0,0,800,600],,,,,,,0
+
+
+[FILES]
+About Help.html
+Index Page.html
+Inventory Help.html
+Login Help.html
+Manager Help.html
+Staff Help.html
+
+[INFOTYPES]
+

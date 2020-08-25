@@ -1,0 +1,52 @@
+﻿1.
+Wiring	    1000,00
+
+3.
+Wiring	    1000,00
+
+4.
+Wiring	    200,00
+
+5.
+Wiring	    1000,00
+
+6.
+Wiring	    1000,00
+
+7.
+Wiring      400,00
+Cabeling      400,00
+
+
+11.
+Wiring      500
+Capacitors      200
+
+13.
+Wiring      300
+
+
+14.
+Capacitors      500
+
+
+15.
+Wiring      300
+
+
+16.
+Capacitors      650
+
+
+17.
+plug      22
+
+
+18.
+Capacitors      600
+
+
+19.
+Wiring     R 230
+
+

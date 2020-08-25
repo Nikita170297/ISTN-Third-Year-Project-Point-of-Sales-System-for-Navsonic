@@ -1,0 +1,1107 @@
+c:\users\shaneer luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+c:\users\shaneer luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+c:\users\shaneer luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+c:\users\shaneer luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+c:\users\shaneer luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+c:\users\shaneer luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+c:\users\shaneer luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+c:\users\shaneer luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Shaneer Luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\documents\visual studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Documents\Visual Studio 2010\Projects\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shaneer Luchman\Desktop\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shaneer Luchman\Desktop\FinalForms-20190502T231338Z-001\FinalForms\Menu 3.0\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\FinalForms-20190502T231338Z-001\FinalForms\Menu 3.0\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\FinalForms-20190502T231338Z-001\FinalForms\Menu 3.0\Menu 3.0\UpdatesOfMenuGoHere-20190502T000407Z-001\UpdatesOfMenuGoHere\TestMenu 2.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewRepairs.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Random.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Talia\Desktop\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Random.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewRepairs.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Random.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewRepairs.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Vee\Desktop\Shaneer\Final Project2\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Random.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewRepairs.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Random.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewRepairs.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Random.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewRepairs.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\FinalProject5.0-20190509T215155Z-001\FinalProject5.0\FinalProject4.0\Final Project3.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Talia\Desktop\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\Final6.0New\FinalProject6.0\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Exchange.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shaneer Luchman\Desktop\ISTNFinal\Final6.0New-20190510T153207Z-001\New folder\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form4.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form2.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Shaneer Luchman\Desktop\FinalISTN\Temp2.0\TiredOfIstnNow\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Talia\Desktop\newISTN\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shaneer Luchman\Downloads\TestMenu-20190803T205538Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shaneer Luchman\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\shane\Desktop\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\shane\Desktop\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\shane\Desktop\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\shane\Desktop\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shanade Naidoo\Desktop\Front End System New Updated 07-08-2019\Front End\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\shane\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\shane\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shanade Naidoo\Desktop\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+E:\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Shaneer Luchman\Desktop\Front End\Front End Updated 2019-08-10-20190814T125006Z-001\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\216006010\Front End Updated M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Refunds.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\216006010\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.xml
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbprojResolveAssemblyReference.cache
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.About.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddRepairPayments.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.CreateCust.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.EditCustomer.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form1.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Form3.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddSupplier.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.addStaffMember.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.AddNewOutsourceAgent.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Help.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.InstallationPayment.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.MakeASale.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_New_Product.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Order_Stock.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Outsource_Agent.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.RepairPayment.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SearchProduct.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitInstallationReq.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.SubmitRepair.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Update_Inventory.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateInstallation.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.UpdateRepair.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCurrentInstallations.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewCust2.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewProducts.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewStaff.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.ViewSup.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Welcome.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Login.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.Resources.resources
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\obj\x86\Debug\TestMenu.vbproj.GenerateResource.Cache
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\Help Files\Index Page.html
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.exe
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.pdb
+C:\Users\Talia\Desktop\Front End Updated with Help M4-20191009T101134Z-001\Front End Updated M4\Front End 2019-08-10\TestMenu-20190810T154524Z-001\TestMenu\TestMenu\bin\Debug\TestMenu.xml
